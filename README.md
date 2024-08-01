@@ -1,25 +1,20 @@
 ---------------
---- Weather App
+--- App Music Flutter
 ---------------
-Weather App là một ứng dụng di động đơn giản để xem thông tin thời tiết hiện tại và dự báo thời tiết trong tương lai.
+Music app là ứng dung nghe nhạc được xây dựng bằng Flutter
 
 Tính năng
 ---------
-Hiển thị thông tin thời tiết hiện tại cho vị trí hiện tại của bạn.
+- Có các chức năng cơ bản của 1 ứng dụng nghe nhạc: lựa chọn bài hát, tìm kiểm,
+  cá nhân, bài hát yêu thích,...
+- Với mỗi bài hát đang nghe có thể tiến-lùi bài hát, tua nhanh, lặp bài,...
 
-Dự báo thời tiết trong tương lai cho 7 ngày tiếp theo.
-
-Giao diện đơn giản và dễ sử dụng.
-
-Yêu Cầu Hệ Thống
-----------------
-Hệ điều hành: Android
 
 Công Nghệ
 -
 Android Studio
 
-OpenWeather API
+API Music
 
 Tác Giả
 -
